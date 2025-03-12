@@ -1,12 +1,12 @@
 # 📌 效果展示
 ## 准确率
 ![alt text](runs/train/exp3/F1_curve.png)
-![alt text](labels.jpg)
-![alt text](PR_curve.png)
+![alt text](runs/train/exp3/labels.jpg)
+![alt text](runs/train/exp3/PR_curve.png)
 ## 效果
-![alt text](val_batch0_pred.jpg)
-![alt text](val_batch1_labels.jpg)
-![alt text](val_batch2_labels.jpg)
+![alt text](runs/train/exp3/val_batch0_pred.jpg)
+![alt text](runs/train/exp3/val_batch1_labels.jpg)
+![alt text](runs/train/exp3/val_batch2_labels.jpg)
 
 # 📌 YOLOv5 目标检测完整流程
 
