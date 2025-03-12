@@ -1,6 +1,6 @@
 # 📌 效果展示
 ## 准确率
-![alt text](runs/train/exp3/weights/F1_curve.png)
+![alt text](runs/train/exp3/F1_curve.png)
 ![alt text](labels.jpg)
 ![alt text](PR_curve.png)
 ## 效果
